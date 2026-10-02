@@ -52,27 +52,6 @@ npm run build    # production build in dist/
 npm run preview  # serve the production build locally
 ```
 
-## Deploy
-
-The build is a static site (`dist/`) using relative asset paths, so it works on any static host.
-
-### Netlify
-
-1. Push the project to GitHub.
-2. In Netlify choose **Add new site, Import an existing project** and select the repo.
-3. Build command: `npm run build`. Publish directory: `dist`.
-4. Deploy. (Or drag the `dist/` folder onto <https://app.netlify.com/drop>.)
-
-### Vercel
-
-1. Push the project to GitHub.
-2. In Vercel choose **Add New, Project** and import the repo. The Vite preset is detected automatically.
-3. Build command: `npm run build`. Output directory: `dist`.
-4. Deploy.
-
-### GitHub Pages
-
-Build with `npm run build`, then publish the `dist/` folder (for example with the `gh-pages` package or a GitHub Actions workflow).
 
 ## Credits
 
