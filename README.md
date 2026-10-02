@@ -79,9 +79,4 @@ Build with `npm run build`, then publish the `dist/` folder (for example with th
 - Weather data by [Open-Meteo.com](https://open-meteo.com/)
 - Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
-## What I learned
 
-- _Add your own notes here, e.g. how you handled debounced search and request cancellation._
-- _What you learned about integrating Leaflet with React and Vite (marker icons, CSS import)._
-- _How you kept the UI accessible (combobox pattern, focus states, aria labels)._
-- _Anything you would improve next._
