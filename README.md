@@ -2,9 +2,7 @@
 
 A responsive weather app: search any city or click the map to see current conditions, a 24-hour forecast and a 7-day outlook. Frontend only, no backend and no API keys.
 
-![Screenshot placeholder](./docs/screenshot.png)
 
-> Replace `docs/screenshot.png` with a screenshot of the running app.
 
 ## Features
 
